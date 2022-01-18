@@ -14,6 +14,11 @@ This is my [Youtube Channel](https://www.youtube.com/c/BoardsBurgers)
 
 ![alt text](https://ludopedia-postagem.nyc3.cdn.digitaloceanspaces.com/999b5_uu308y.png)
 
+'sample'code' 
+
+''' Print("Thanks God)
+'''
+
 
 *by Willian Boit*
 
