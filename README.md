@@ -2,7 +2,15 @@
 
 ### My first repository on GitHub
 
-*I _hope_ you enjoy*
+**I hope you _enjoy_**
+
+## 1st semester goals
+
+1- Learn SAS 
+2- Meet new people
+3- Etc
+
+
 
 *by Willian Boit*
 
