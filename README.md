@@ -16,10 +16,10 @@ This is my [Youtube Channel](https://www.youtube.com/c/BoardsBurgers)
 
 'sample'code' 
 
-'''python
+```python
 g = "Thanks God"
 print g
-'''
+```
 
 
 *by Willian Boit*
