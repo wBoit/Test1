@@ -2,6 +2,6 @@
 
 ### My first repository on GitHub
 
-*by wBoit*
+*by Willian Boit*
 
 
