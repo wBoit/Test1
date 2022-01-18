@@ -16,7 +16,9 @@ This is my [Youtube Channel](https://www.youtube.com/c/BoardsBurgers)
 
 'sample'code' 
 
-''' Print("Thanks God)
+'''python
+g = "Thanks God"
+print g
 '''
 
 
