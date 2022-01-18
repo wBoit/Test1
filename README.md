@@ -18,7 +18,7 @@ This is my [Youtube Channel](https://www.youtube.com/c/BoardsBurgers)
 
 ```python
 g = "Thanks God"
-print g
+print (g)
 ```
 
 
