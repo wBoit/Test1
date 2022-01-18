@@ -21,6 +21,9 @@ g = "Thanks God"
 print (g)
 ```
 
+|Willian|Boit|Da Silva|
+|-------|----|--------|
+|First|Mid|Last|
 
 *by Willian Boit*
 
