@@ -10,7 +10,7 @@
 2. Meet new people
 3. Etc
 
-This is my [Youtube Paga](https://www.youtube.com/c/BoardsBurgers) called Boards & Burges
+This is my [Youtube Page](https://www.youtube.com/c/BoardsBurgers) called Boards & Burges
 
 *by Willian Boit*
 
