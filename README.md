@@ -10,7 +10,7 @@
 2. Meet new people
 3. Etc
 
-This is my [Facebook page] (https://www.facebook.com/willian.b.dasilva.1)
+This is my [Facebook page](https://www.facebook.com/willian.b.dasilva.1)
 
 *by Willian Boit*
 
