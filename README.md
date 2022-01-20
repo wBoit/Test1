@@ -1,10 +1,10 @@
 # Hello-World
 
-### My first repository on GitHub
+### My You Tube Channel Project
 
-**I hope you _enjoy_**
+*I'd like to introduce this project called Boards & Burgers. It's a You Tube channel about Board Games where We focus on presenting and teaching  Board Games rules through recorded videos and livecasting*
 
-### 1st semester goals
+## My priorities this semester
 
 1. Learn SAS 
 2. Meet new people
